@@ -1,5 +1,5 @@
 import React from "react";
-import { FaClock, FaEnvelope, FaPhone } from "react-icons/fa";
+import { FaClock, FaEnvelope, FaWhatsapp } from "react-icons/fa";
 import abt2 from '../assets/abt2.jpg'
 import img1 from '../assets/log1.webp'
 import img2 from '../assets/log2.webp'
@@ -15,12 +15,12 @@ const ContactInfo: React.FC = () => {
         {/* Contact Details */}
         <div className="text-gray-900 space-y-4">
           <p className="text-lg">
-            <strong>1212 N 34th St
-            Omaha, Nebraska(NE), 68131</strong>
+            <strong>1600 NE 1st Ave APT 3408: Miami, FL 33132
+            </strong>
           </p>
 
           <p className="flex items-center gap-2">
-            <FaPhone/> <span>+31-97005032677</span>
+            <FaWhatsapp/> <span>+17248102785</span>
           </p>
 
           <p className="flex items-center gap-2">

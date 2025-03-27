@@ -36,7 +36,7 @@ const ProfileCard = () => {
 
         {/* Icons Section */}
         <div className="mt-8 flex justify-center space-x-6">
-          <a href="tel:+1234567890" className="flex flex-col items-center">
+          <a href="tel:+17248102785" className="flex flex-col items-center">
             <FaPhone size={20} />
             <span className="text-xs mt-1">Phone</span>
           </a>
@@ -44,7 +44,7 @@ const ProfileCard = () => {
             <MdEmail size={20} />
             <span className="text-xs mt-1">Email</span>
           </a>
-          <a href="#" className="flex flex-col items-center">
+          <a href="https://wa.me/+17248102785" className="flex flex-col items-center">
             <FaWhatsapp size={20} />
             <span className="text-xs mt-1">WhatsApp</span>
           </a>
