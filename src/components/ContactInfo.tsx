@@ -51,7 +51,7 @@ const ContactInfo: React.FC = () => {
     <div className="bg-[#fff]">
  <div className="text-center mb-12 ">
         <h2 className="text-4xl font-semibold text-[#0a043c] uppercase relative inline-block">
-          Applied Justice
+        Fabio LawFirm
           {/* Underline */}
           <span className="block w-16 h-[3px] bg-[#0a043c] mx-auto mt-2 rounded-full"></span>
         </h2>
@@ -90,14 +90,14 @@ const ContactInfo: React.FC = () => {
         <div className="text-center">
           <h2 className="text-lg font-bold mb-4">ABOUT</h2>
           <p className="text-sm leading-relaxed">
-            Applied Justice Law Firm, we believe that everyone deserves access
+            Fabio Law Firm, we believe that everyone deserves access
             to high-quality legal representation, regardless of their background
             or circumstances. We are a team of dedicated and experienced
             attorneys committed to fighting tirelessly for the rights of our
             clients.
             <br />
             <br />
-            At Applied Justice Law Firm, we don't just handle cases – we empower
+            At Fabio  Law Firm, we don't just handle cases – we empower
             individuals and families to navigate complex legal challenges and
             secure their futures. Contact us today for a consultation and let us
             help you seek the justice you deserve.

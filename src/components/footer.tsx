@@ -6,7 +6,7 @@ const Footer = () => {
       <footer className="bg-[#ccc] py-8 px-4 md:px-16 flex flex-col md:flex-row justify-between items-center shadow-md">
         {/* Left Section */}
         <div className="text-center md:text-left mb-6 md:mb-0">
-          <h2 className="text-xl font-semibold">Applied Justice Law Firm</h2>
+          <h2 className="text-xl font-semibold">Fabio Law irm</h2>
           <p className="text-sm mt-2">Copyright © 2025 All rights reserved</p>
           <div className="flex justify-center md:justify-start space-x-4 mt-2 text-sm">
             <a href="#" className="hover:underline">Terms</a>
